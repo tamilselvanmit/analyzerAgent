@@ -6,4 +6,7 @@ docx2txt
 PyMuPDF
 easyocr
 Pillow
-
+langchain-community
+langchain-groq
+pytesseract        
+            
